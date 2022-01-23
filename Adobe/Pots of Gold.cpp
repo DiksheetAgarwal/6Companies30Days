@@ -36,6 +36,7 @@ int main() {
         Solution ob;
         cout << ob.maxCoins(A, N) << "\n";
     }
+    
     return 0;
 }
   // } Driver Code Ends
