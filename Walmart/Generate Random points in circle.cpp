@@ -12,6 +12,7 @@ public:
         return (double) rand()/RAND_MAX;
     }
     
+    
     vector<double> randPoint() {
         double l = radius * sqrt(random());
         double deg = 2 * M_PI * random();
